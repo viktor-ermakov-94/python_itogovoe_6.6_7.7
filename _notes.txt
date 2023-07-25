@@ -1,0 +1,6 @@
+NewsPaper - сам проект (django-admin startproject NewsPaper)
+Приложения к проекту:
+  news - python manage.py startapp news
+  accounts - python manage.py startapp accounts
+
+git remote add origin git@github.com:redbor24/SF_D2.7.git
